@@ -32,7 +32,7 @@
 		},
 		{
 			"Name": "DragonIKPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3f3985e9eb40414aaabf645791fa4916"
 		}
 	]
